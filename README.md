@@ -15,7 +15,9 @@ Made with Python
 # Features
 <ul>
    1-You can choose the quality if you want but the default is 720p
-    2Get notified when download is finished
+</ul>
+<ul>
+    2-Get notified when download is finished
 </ul>
 
 
