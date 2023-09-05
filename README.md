@@ -1,4 +1,4 @@
-
+use 360 or 720 because 480 has no sound i will try solve it sorry
 # youtube-playlist-downloader
 A simple script to download entire youtube playlist.
 Made with Python
